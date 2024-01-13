@@ -48,7 +48,7 @@ Ele foi criado para servir de avaliação do módulo 01 do Bootcamp.
       Endpoint para modificar os detalhes de um cliente existente com base no ID.
     
     Excluir cliente:
-      Endpoint para remover um produto da base de dados com base no ID.
+      Endpoint para remover um cliente da base de dados com base no ID.
 
 ## Documentação
 
